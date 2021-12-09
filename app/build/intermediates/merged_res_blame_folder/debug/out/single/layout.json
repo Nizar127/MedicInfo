@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_day.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patient_condition_ui.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\patient_condition_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_authentication.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_admin_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_week_activitiy.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_week_activitiy.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_stent_detail.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_stent_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\past_fragment.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\past_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\future_fragment.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\future_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_patient.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_add_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_task.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\list_item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_sign_up.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_admin_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_patient_condition.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_edit_patient_condition.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_task.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ongoing_fragment.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MedicInfo\\app\\src\\main\\res\\layout\\ongoing_fragment.xml"
+    }
+]

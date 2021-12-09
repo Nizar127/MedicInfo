@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269236484040",
+    "project_id": "medicinfo-946ab",
+    "storage_bucket": "medicinfo-946ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269236484040:android:16c97754b9ba1ff10432fd",
+        "android_client_info": {
+          "package_name": "com.doctor.medicinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269236484040-cp0f8lkusm13s9o0gvcm6p2cmcfi8t5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3pisEFJmHzFVD4-KSfbNXzfFT3SP1y2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269236484040-cp0f8lkusm13s9o0gvcm6p2cmcfi8t5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

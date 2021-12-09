@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".AddPatient">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/backhomebtn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/arrow_back"
+            android:layout_margin="20dp"
+            app:tint="@color/black" />
+
+        <TextView
+            android:id="@+id/dataMedicineTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Patient"
+            android:textColor="@color/black"
+            android:fontFamily="@font/montserrat"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_margin="20dp"
+            />
+
+    </LinearLayout>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="Name:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/edittextName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="Enter your name"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/ic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="IC Number:"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/Ic_Num"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/description"
+                android:hint="Enter IC Number"
+                android:layout_marginEnd="20dp"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="93dp"
+                android:padding="30dp"
+                android:text="Diagnosis:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/diagnoseMed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/textView4"
+                android:hint="Mention state the diagnosis"
+                android:layout_marginEnd="20dp"
+                android:inputType="textMultiLine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/date_stent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="Date Stent:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/dateStent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="date of registration"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/typestent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="Type of Stent:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/typestentName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="Enter the type of stent"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/stentSite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="Stent Site:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/stentSiteType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="Enter the medicine name"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/removeSite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="ROS:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/removalStent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="Removal of Stent (ROS)"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/changeStentSite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="COS"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/changeStent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="Change of Stent (COS)"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/stentDueSite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="30dp"
+                android:text="Stent Due:"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/stentDue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/name"
+                android:hint="Enter the Stent Due"
+                android:inputType="text"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/addPatientDataBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="20dp"
+            android:text="Add Patient"
+            android:elevation="40dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:fontFamily="@font/montserrat"
+            android:textColor="@color/colorBlackBackground"
+            android:backgroundTint="@color/Lime"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+
+</LinearLayout>

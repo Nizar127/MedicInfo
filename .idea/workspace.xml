@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a76ff16-3529-48fa-b9f4-94986663011f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BlessApp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/EditProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/font/aldrich.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/layout/activity_edit_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/CustomerMapActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/DriverLoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/DroneMapActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/MapActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/SettingsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/java/com/hoverraid/hoverraid/SplashScreenActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/drawable/ic_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/drawable/ic_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/drawable/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_customer_map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_driver_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_drone_map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HoverRaid/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/AddMedicineActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/AidKitActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/AlarmActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/AlarmNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/AlarmReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/AlarmSoundService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/CreateBiodataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/EditorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/RegisterUserActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/UpdateBiodataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/UpdateMedicineActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/ViewBiodataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/ViewMedicineActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/adapter/MedAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/adapter/docAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/model/DoctorContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/model/MedicineLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/java/com/liyana/medalarm/model/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/drawable/ic_baseline_arrow_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/drawable/ic_baseline_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/drawable/ic_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/font/montserrat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_add_medicine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_aid_kit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_alarm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_create_biodata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_register_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_update_biodata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_update_medicine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_view_biodata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/activity_view_medicine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/listitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/layout/listmedicineitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedAlarm/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/doctor/medicinfo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Adapter/PatientDataAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Adapter/TaskAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/AddPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/AdminAuthenticationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/AdminSignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Edit_patient_condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Model/DoctorData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Model/PatientData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Model/TaskData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Patient_condition/DayActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Patient_condition/WeekActivitiy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/StentDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Task/FragmentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Task/FutureFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Task/OngoingFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/Task/PastFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/TaskActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/doctor/medicinfo/TaskSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/radio_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_border_switch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/round_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/allan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/audiowide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/montserrat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_patient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_admin_authentication.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_admin_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_day.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_edit_patient_condition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_stent_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_task.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_week_activitiy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/future_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_task.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/ongoing_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/past_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_condition_ui.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/doctor/medicinfo/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/java/com/doctor/medicsupervisor/AdminSignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/java/com/doctor/medicsupervisor/DoctorTaskDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/java/com/doctor/medicsupervisor/Doctor_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/java/com/doctor/medicsupervisor/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/java/com/doctor/medicsupervisor/Model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/java/com/doctor/medicsupervisor/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/font/audiowide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/font/montserrat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/layout/activity_admin_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/layout/activity_doctor_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/layout/activity_doctor_task_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/layout/list_doctor_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedicSupervisor/app/src/test/java/com/doctor/medicsupervisor/Model/DoctorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAgrocore/app/src/main/java/com/agrocore/myagrocore/Posts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAgrocore/app/src/main/java/com/agrocore/myagrocore/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAgrocore/app/src/main/res/drawable/ic_basket.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAgrocore/app/src/main/res/layout/activity_posts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAgrocore/app/src/main/res/layout/activity_user_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlessApp/app/src/main/java/com/blessapp/blessapp/Admin/AdminAddNewItemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BlessApp/app/src/main/java/com/blessapp/blessapp/Admin/AdminAddNewItemActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlessApp/app/src/main/java/com/blessapp/blessapp/ProductDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BlessApp/app/src/main/java/com/blessapp/blessapp/ProductDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlessApp/app/src/main/java/com/blessapp/blessapp/ProductPageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BlessApp/app/src/main/java/com/blessapp/blessapp/ProductPageActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlessApp/app/src/main/res/layout/activity_order_receipt_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BlessApp/app/src/main/res/layout/activity_order_receipt_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlessApp/app/src/main/res/layout/activity_product_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BlessApp/app/src/main/res/layout/activity_product_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComicFlix" beforeDir="false" afterPath="$PROJECT_DIR$/../ComicFlix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvidPlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/MoreActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/MoreActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/PointsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/PointsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/RewardsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/RewardsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/redeemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/java/com/blessapp/fito/redeemActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/res/layout/activity_coupon__redemption.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/layout/activity_coupon__redemption.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/res/layout/activity_home2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/layout/activity_home2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/res/menu/bottom_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITO/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITO/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoodDeliveryApp" beforeDir="false" afterPath="$PROJECT_DIR$/../FoodDeliveryApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GooglePayIntegration" beforeDir="false" afterPath="$PROJECT_DIR$/../GooglePayIntegration" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/androidTest/java/com/anis/greenindoorar/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/EditProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/GalleryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/ProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/RegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/SnakePlantActivityActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/UnityHolderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/ViewSnakePlantActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/java/com/anis/greenindoorar/WelcomePageActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable-v24/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable-v24/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable-v24/snakeplant.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_person.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_sun.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_temperature.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/drawable/ic_water.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/font/karla.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/font/karla_bold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_edit_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_snake_plant_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_unity_holder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_view_snake_plant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/layout/activity_welcome_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/menu/menu_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-hdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-mdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/mipmap-xxxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/app/src/test/java/com/anis/greenindoorar/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/36a061cea59255300c1159d1f645f9bc.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/36a061cea59255300c1159d1f645f9bc/com.unity3d.player-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/Metadata/global-metadata.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.5/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.5/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/4.5/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/Managed/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/RuntimeInitializeOnLoads.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/ScriptingAssemblies.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/UnitySubsystems/UnityARCore/UnitySubsystemsManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/data.unity3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/assets/bin/Data/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/jars/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/jars/libs/unity-classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/jni/arm64-v8a/libil2cpp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/jni/arm64-v8a/libmain.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/jni/arm64-v8a/libunity.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/proguard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/res/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/res/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3a7af943c637c2e1cc4b7fb437057e32/jetified-unityLibrary-debug/res/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3e1a5f667dee7d6e2d9310a36be734fc.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3e1a5f667dee7d6e2d9310a36be734fc/jetified-unityLibrary-debug-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/3ed057d5c86c1e51e90bfc62338863d9.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/4e56b19aac713402c051fa8060c2c4c6.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/4e88478085879e4ab096eb3d9a1642a2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/4e88478085879e4ab096eb3d9a1642a2/jetified-unityLibrary-debug-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/54f60220637a54ed158038f73ffeb9fb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/54f60220637a54ed158038f73ffeb9fb/jetified-unityLibrary-debug-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/62be3fcb1c721f6c127514252fbfa3e0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/62be3fcb1c721f6c127514252fbfa3e0/jetified-unityLibrary-debug-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/84e212fc0f96090ab39040260ce4fa8c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/8a2033499a38edd1d52d62e78e34dee3.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/8bdb0999a25412fd41a2d3efd79b24f5.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/8bdb0999a25412fd41a2d3efd79b24f5/jetified-unityLibrary-debug-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/8ff53e789772e013d155f326b87222d4.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/9416e5e0cf3083f933df0f738a9fce23.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/9416e5e0cf3083f933df0f738a9fce23/jetified-unityLibrary-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/9e51fcead03a6db1395f524f3fdef8a3.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/a1edd42d2cb1f35765b502d4237d45a5.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/b6cb70534527090c8d4f3c2dea734223.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/cae008c0413da8847f8f9d65eb16af69.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/build/.transforms/f2231ca3f71f76be07879d4de0fe432f.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreenIndoorAR/unityLibrary/unityLibrary-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/OrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/OrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/StatusActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/StatusActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/CompletedOrderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/CompletedOrderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/OrderDeliverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/OrderDeliverAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/OrderPackAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/OrderPackAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/OrderShipAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/OrderShipAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/StatusAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/adapter/StatusAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/model/OrderData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/java/com/ainshafiqah/mysimplify/model/OrderData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySimplify/app/src/main/res/layout/activity_status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySimplify/app/src/main/res/layout/activity_status.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/androidTest/java/com/example/netmart20/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/java/com/example/netmart20/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/java/com/example/netmart20/Register.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/drawable/highlight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/drawable/ic_person_black_100dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/app/src/test/java/com/example/netmart20/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/hs_err_pid8112.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/replay_pid8112.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetMart20/NetMart20/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart" beforeDir="false" afterPath="$PROJECT_DIR$/../Netmart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDeliverer" beforeDir="false" afterPath="$PROJECT_DIR$/../NetmartDeliverer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/NetmartDelivery.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/androidTest/java/com/test/netmartdelivery/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/java/com/test/netmartdelivery/DriverService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/java/com/test/netmartdelivery/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable-anydpi-v24/ic_tracker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable-hdpi/ic_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable-mdpi/ic_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable-xhdpi/ic_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable-xxhdpi/ic_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/app/src/test/java/com/test/netmartdelivery/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartDelivery/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/androidTest/java/com/test/netmartorder/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/debug/res/values/google_maps_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/java/com/test/netmartorder/MapsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/layout/activity_maps.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/release/res/values/google_maps_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/app/src/test/java/com/test/netmartorder/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartOrder/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetmartSeller" beforeDir="false" afterPath="$PROJECT_DIR$/../NetmartSeller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/androidTest/java/com/test/netmart_version2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/java/com/test/netmart_version2/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/drawable/category_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/layout/promotion_items.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/app/src/test/java/com/test/netmart_version2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netmart_Version2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnlineDailyGroceries" beforeDir="false" afterPath="$PROJECT_DIR$/../OnlineDailyGroceries" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantStore" beforeDir="false" afterPath="$PROJECT_DIR$/../PlantStore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PutriStore.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/androidTest/java/com/thebooksmart/booksmart/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/Adapter/MyAvailBizAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/Adapter/businessList_adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/AlarmReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/BizList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/BusinessActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/CheckInActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/Confirm_book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/ListBusinessActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/ListItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/Model/businessList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/NotificationView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/bizAvail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/bizAvailList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/bizProfileAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/booking_business.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/business_availableActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/business_profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/listAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/manage_booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/manage_business.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/java/com/thebooksmart/booksmart/user_profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable-hdpi/ic_stat_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable-mdpi/ic_stat_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable-xhdpi/ic_stat_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable-xxhdpi/ic_stat_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable-xxxhdpi/ic_stat_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/ic_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/ic_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/ic_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/ic_favorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/ic_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/traveller.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/drawable/white_grey_border_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_booking_business.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_business.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_business_available.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_business_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_check_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_confirm_book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_list_business.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_manage_booking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_manage_business.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/activity_user_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/available_business.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/bottom_navigation_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/fragment_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/menu_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/layout/products_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/menu/navigation_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/menu/popup_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/app/src/test/java/com/thebooksmart/booksmart/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheBookSmart-master-master/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheEvidPlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/androidTest/java/com/ainshafiqah/thesimplify/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/AddOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/CompletedOrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/EditProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/HomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/MoreActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/OrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/OrderDeliverActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/OrderPackActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/OrderShipActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/ProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/RegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/StatusActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/UpdateStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/adapter/OrderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/adapter/completedOrderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/adapter/statusAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/model/OrderData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/java/com/ainshafiqah/thesimplify/model/userData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/arrow_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/btn_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/carditem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/circularcenter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/delivered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/go_to.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_baseline_post_add_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_more.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_password.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_person.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_phone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/ic_work.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/input_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/splashscreen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/success.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/topack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/toship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/drawable/tracking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/font/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/font/aldrich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/font/allerta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_add_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_completed_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_edit_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_more.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_order_deliver.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_order_pack.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_order_ship.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_status.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/activity_update_status.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/order_ui.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/ordercomplete_ui.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/layout/status_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/menu/bottomnav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-hdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-mdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/mipmap-xxxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values/style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/app/src/test/java/com/ainshafiqah/thesimplify/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheSimplify/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Video55K" beforeDir="false" afterPath="$PROJECT_DIR$/../Video55K" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/androidTest/java/com/test/jobseek/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/java/com/test/jobseek/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/app/src/test/java/com/test/jobseek/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobSeek/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_video" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\User\.android\avd\Pixel_4_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yD0YpBReo0ooZQoxc6gRsljDWQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlessApp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1447856774">
+      <recent name="com.doctor.medicinfo" />
+    </key>
+    <key name="android.template.-490259910">
+      <recent name="com.doctor.medicinfo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.doctor.medicinfo" />
+    </key>
+    <key name="android.template.-1826096615">
+      <recent name="com.doctor.medicinfo" />
+    </key>
+    <key name="android.template.-1024143185">
+      <recent name="com" />
+      <recent name="com.doctor.medicinfo" />
+    </key>
+    <key name="android.template.-2068380957">
+      <recent name="com.doctor.medicinfo" />
+    </key>
+    <key name="android.template.832294031">
+      <recent name="com.doctor.medicinfo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MedicInfo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a76ff16-3529-48fa-b9f4-94986663011f" name="Default Changelist" comment="" />
+      <created>1631770902069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631770902069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="110" key="#PSD" timestamp="1631773313809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1631773313809" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1636339396923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1636339396923" />
+    <state x="466" y="232" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1634393755417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="232" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1634393755417" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631771785294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1631771785294" />
+    <state x="263" y="118" key="AndroidCreateResourceFileDialog" timestamp="1636019885796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="118" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1636019885796" />
+    <state x="363" y="118" key="Downloadable.Font.Dialog.Size" timestamp="1633803098324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="118" key="Downloadable.Font.Dialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1633803098324" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1637287420523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1637287420523" />
+    <state width="1323" height="51" key="GridCell.Tab.0.bottom" timestamp="1634452518325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="51" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1634452518325" />
+    <state width="1323" height="51" key="GridCell.Tab.0.center" timestamp="1634452518324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="51" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1634452518324" />
+    <state width="1323" height="51" key="GridCell.Tab.0.left" timestamp="1634452518324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="51" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1634452518324" />
+    <state width="1323" height="51" key="GridCell.Tab.0.right" timestamp="1634452518324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="51" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1634452518324" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1631773262703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1631773262703" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1633936498165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1633936498165" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1634009348811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1634009348811" />
+  </component>
+</project>
